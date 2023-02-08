@@ -1,2 +1,1 @@
-#Just Starting to look at stuff in python
-#Lets see what these scripts look like
+# Cloned this on Feb 7th
